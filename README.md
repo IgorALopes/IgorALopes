@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IgorAlopes&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IgorAlopes&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 <!--
 **IgorALopes/IgorALopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
