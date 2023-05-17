@@ -16,7 +16,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorALopes&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
     </div>
 </div>
-<br><br>
+<br>
 <div align="center">
     <h1><strong>Relevant Repositories</strong></h1>
     <a style="text-decoration: none; font-size: 20px;" href="https://github.com/IgorALopes/project-historic-soccer-teams">Historic Soccer Teams</a><br>
